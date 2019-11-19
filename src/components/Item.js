@@ -19,7 +19,6 @@ function Item({ match }) {
 
       const item = await dataItem.json();
       const descripcion = await dataItemDes.json();
-      console.log(item);
       setItem(item);
       setDescripcion(descripcion);
   };
