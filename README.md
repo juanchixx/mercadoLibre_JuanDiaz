@@ -1,8 +1,13 @@
 # Ejercicio FrontEnd para MercadoLibre
 
-## Available Scripts
+## Instalación
 
-En el directorio del proyecto, ejecutar:
+
+Antes de empezar es necesario instalar por Terminal las siguientes dependencias:
+### `npm install`
+### `npm install react-number-format --save`
+
+Luego, para ejecutar el proyecto, ejecutar el siguiente comando:
 
 ### `npm start`
 
